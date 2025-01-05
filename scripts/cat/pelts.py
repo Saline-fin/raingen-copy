@@ -598,9 +598,7 @@ class Pelt():
         
         elif not random.randint(0, multieyenum) and self.eye_colour not in Pelt.riveye_colours:
             self.eye_colour2 = 'MULTI'+self.eye_colour
-            
-        if not random.randint(0, riveyenum):
-            self.eye_colour = choice(Pelt.riveye_colours)
+
 
     def pattern_color_inheritance(self, parents: tuple = (), gender="female"):
         # setting parent pelt categories

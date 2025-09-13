@@ -1,6 +1,7 @@
 # RainGen
-
-### [RainGen Discord Server](https://discord.gg/Zyj6vTq4rS)
+### !!!This is an outdated version of RainGen!!!
+### [Click here to view the newer version.](https://github.com/sunflower8804/raingen-latest)
+#### [raingen discord server](https://discord.gg/Zyj6vTq4rS)
 #### [clangen discord](https://discord.gg/clangen) || [clangen website](https://clangen.io/) || [clangen github](https://github.com/ClanGenOfficial/clangen)
 Fan-made community project aiming to change Clangen to take place in Rain World's setting. 
 
